@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/mmmuller/PageRanker/issues"
   },
-  "homepage": "https://github.com/mmmuller/PageRanker"
+  "homepage": "https://github.com/mmmuller/PageRanker",
+  "dependencies": {
+    "cron": "^1.0.9",
+    "google-tools": "0.0.2",
+    "moment": "^2.10.2",
+    "q": "^1.2.0",
+    "tingodb": "^0.3.4"
+  }
 }
