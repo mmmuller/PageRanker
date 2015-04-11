@@ -1,0 +1,19 @@
+{
+  "name": "PageRanker",
+  "version": "1.0.0",
+  "description": "Tool to collecting information fot your web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmmuller/PageRanker.git"
+  },
+  "author": "Mikolaj Muller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmuller/PageRanker/issues"
+  },
+  "homepage": "https://github.com/mmmuller/PageRanker"
+}
