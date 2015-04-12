@@ -14,7 +14,7 @@ exports.tool = {
     		if(err){
   				deferred.reject(new Error(err));
   			} else {
-  				deferred.resolve(result);
+  				deferred.resolve(result === -1 ? null : result);
   			}
 		});
 		return deferred.promise;
@@ -33,3 +33,4 @@ exports.tool = {
 		return deferred.promise;
 	}
 }
+

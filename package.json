@@ -18,9 +18,11 @@
   "homepage": "https://github.com/mmmuller/PageRanker",
   "dependencies": {
     "cron": "^1.0.9",
-    "google-tools": "0.0.2",
+    "express": "^4.12.3",
+    "google-tools": "git://github.com/mmmuller/google-tools.git",
     "moment": "^2.10.2",
     "q": "^1.2.0",
+    "sha1": "^1.1.0",
     "tingodb": "^0.3.4"
   }
 }
