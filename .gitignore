@@ -28,3 +28,6 @@ node_modules
 
 #tingodb
 /src/db/data/*
+
+#bower lib
+/src/httpd/public_html/lib
